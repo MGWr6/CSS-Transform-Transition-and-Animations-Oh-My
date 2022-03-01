@@ -10,6 +10,9 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  transform: skewY(-10deg);
+  font-family: 'Josefin Sans';
+  font-weight: 900;
 }
 
 main > div {
