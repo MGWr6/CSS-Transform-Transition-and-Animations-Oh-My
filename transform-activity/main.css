@@ -15,6 +15,14 @@ main {
   font-weight: 900;
 }
 
+h1 {
+  position: relative;
+  left: 7em;
+  font-family: 'Josefin Sans';
+  font-weight: 700;
+
+}
+
 main > div {
   width: 40%;
   margin: auto;
